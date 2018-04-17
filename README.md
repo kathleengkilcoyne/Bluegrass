@@ -5,5 +5,5 @@
 •springs of the bluegrass <br>
 •geotiff layers of Dupree Nature Preserve <br>
 •Custom Maps of Dupree <br>
-•Version made with QGIS<br>
-•Version made with Mapbox</p>
+&nbsp;&nbsp;&nbsp;&nbsp;•Version made with QGIS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•Version made with Mapbox</p>
