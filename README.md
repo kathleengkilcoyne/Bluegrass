@@ -1,7 +1,7 @@
 
 # Bluegrass
 <p>•<a href= https://kathleengkilcoyne.github.io/Bluegrass/Waterways> Waterways of the Bluegrass </a> <br>
-•Bluegrass Countie's Population Density <br>
+•Bluegrass Population Density <br>
 •Springs of the Bluegrass <br>
 •GeoTIFF layers of Dupree Nature Preserve <br>
 •Custom Maps of Dupree <br>
