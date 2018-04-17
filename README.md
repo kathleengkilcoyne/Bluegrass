@@ -1,2 +1,2 @@
 # Bluegrass
-kathleengkilcoyne.github.io/bluegrass/waterways
+kathleengkilcoyne.github.io/Bluegrass/Waterways
