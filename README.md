@@ -2,7 +2,7 @@
 # Bluegrass
 <p>•<a href= https://kathleengkilcoyne.github.io/Bluegrass/Waterways> Waterways of the Bluegrass </a> <br>
 •<a href= https://kathleengkilcoyne.github.io/Bluegrass/Population%20Density> Bluegrass Population Density </a> <br>
-•Springs of the Bluegrass <br>
+•<a href= https://kathleengkilcoyne.github.io/Bluegrass/Springs> Springs of the Bluegrass and Kentucky </a> <br>
 •GeoTIFF layers of Dupree Nature Preserve <br>
 •Custom Maps of Dupree <br>
 &nbsp;&nbsp;&nbsp;&nbsp;•Version made with QGIS<br>
