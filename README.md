@@ -5,6 +5,6 @@ Maps of Kentucky and its Bluegrass region.
 * [Bluegrass Population Density](Population%20Density)
 * [Springs of the Bluegrass and Kentucky](Springs)
 * Custom maps of Dupree Nature Preserve
-* [GeoTIFF layers](Dupree_GEOTIFF)
+  * [GeoTIFF layers](Dupree_GEOTIFF)
   * [Version made with QGIS](Dupree_Maps)
   * [Version made with Mapbox](Mapbox)
