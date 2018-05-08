@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-bull;<a href= https://kathleengkilcoyne.github.io/Bluegrass/Waterways> Waterways of the Bluegrass </a> <br>
+& #8226; or & bull;<a href= https://kathleengkilcoyne.github.io/Bluegrass/Waterways> Waterways of the Bluegrass </a> <br>
 bull;<a href= https://kathleengkilcoyne.github.io/Bluegrass/Population%20Density> Bluegrass Population Density </a> <br>
 bull;<a href= https://kathleengkilcoyne.github.io/Bluegrass/Springs> Springs of the Bluegrass and Kentucky </a> <br>
 bull;<a href= https://kathleengkilcoyne.github.io/Bluegrass/Dupree_GEOTIFF> GeoTIFF layers of Dupree Nature Preserve </a><br>
